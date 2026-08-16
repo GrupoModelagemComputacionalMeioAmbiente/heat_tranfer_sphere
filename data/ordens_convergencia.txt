@@ -1,0 +1,7 @@
+Ordens de convergencia espacial (entre niveis consecutivos):
+2.035, 2.022, 2.009, 2.013
+media = 2.020
+
+Ordens de convergencia temporal (entre dt consecutivos):
+1.905, 2.021, 2.174
+media = 2.033
